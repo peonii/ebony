@@ -1,0 +1,12 @@
+{
+  "name": "ebony",
+  "version": "0.1.0",
+  "description": "Framework for Discord bot development in Typescript using discord.js",
+  "main": "index.js",
+  "repository": "https://github.com/peonii/ebony.git",
+  "author": "peony#6666",
+  "license": "MIT",
+
+  "keywords": ["discord", "typescript", "framework"],
+  
+}
